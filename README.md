@@ -41,17 +41,6 @@ A passionate full-stack developer focused on building innovative solutions. I lo
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Akan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akanimoh12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Akan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akanimoh12&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanimoh12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-</div>
 
 ## 🌟 Featured Projects
 
